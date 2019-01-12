@@ -9,34 +9,34 @@ Created on Wed Oct 10 20:19:27 2018
 import os, sys
 # if 'SUMO_HOME' in os.environ:
 #The path of SUMO-tools to get the traci library
-# # we need to import python modules from the $SUMO_HOME/tools directory
+# # we need to import python modules from the $SUMO_HOM
+# E/tools directory
+# print('SUMO_HOME' in os.environ)
 # if 'SUMO_HOME' in os.environ:
 #     tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
-#     print(tools)
 #     sys.path.append(tools)
 
 # else:
 #     sys.exit("please declare environment variable 'SUMO_HOME'")
-sys.path.append('/usr/share/sumo/tools')
+sys.path.append('/usr/local/share/tools')
+
 import traci
 import traci.constants as tc
 import numpy as np
 import datetime
 
 #Environment Model
-sumoBinary = "/usr/share/sumo/sumo-0.32.0/sumo"
+sumoBinary = "/usr/local/share/sumo"
 sumoConfig = "/work/trafficSignalControl/config/shixin_shanyin.sumocfg"
 sumoCmd = [sumoBinary, "-c", sumoConfig]  #The path to the sumo.cfg file
-
 #reset the environment
 #重置环境
 def reset():
-    print(sumoCmd)
     traci.start(sumoCmd)
-    print('success')
     tls = traci.trafficlight.getIDList() #返回场景中所有交通灯的id列表
+    print(tls)  #测试交通灯列表是什么样格式
     return tls
-reset() 
+# reset() 
 #get the starting state
 def state():
     for veh_id in traci.vehicle.getIDList():
