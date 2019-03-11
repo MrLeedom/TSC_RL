@@ -1,0 +1,85 @@
+<edges>
+    <edge from='n1' to='n3' id='gneE1_1' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n3' to='n1' id='-gneE1_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n4' to='n3' id='gneE1_0' priority='3' numLanes='4' type="highway.secondary"/>
+    <edge from='n3' to='n4' id='-gneE1_0' priority='3' numLanes='3' type="highway.secondary"/>
+
+    <edge from='n2' to='n3' id='gneE1_2' priority='3' numLanes='4' type="highway.secondary"/>
+    <edge from='n3' to='n2' id='-gneE1_2' priority='3' numLanes='3' type="highway.secondary"/>
+
+    <edge from='n29' to='n3' id='gneE1_3' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n3' to='n29' id='-gneE1_3' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n7' to='n6' id='gneE2_0' priority='3' numLanes='3' type="highway.secondary"/>
+    <edge from='n6' to='n7' id='-gneE2_0' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n29' to='n6' id='gneE2_1' priority='3' numLanes='5' type="highway.secondary"/>
+    <edge from='n6' to='n29' id='-gneE2_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n5' to='n6' id='gneE2_2' priority='3' numLanes='3' type="highway.secondary"/>
+    <edge from='n6' to='n5' id='-gneE2_2' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n28' to='n6' id='gneE2_3' priority='3' numLanes='5' type="highway.secondary"/>
+    <edge from='n6' to='n28' id='-gneE2_3' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n10' to='n9' id='gneE3_0' priority='3' numLanes='2' type="highway.secondary"/>
+    <edge from='n9' to='n10' id='-gneE3_0' priority='3' numLanes='1' type="highway.secondary"/>
+
+    <edge from='n28' to='n9' id='gneE3_1' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n9' to='n28' id='-gneE3_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n8' to='n9' id='gneE3_2' priority='3' numLanes='2' type="highway.secondary"/>
+    <edge from='n9' to='n8' id='-gneE3_2' priority='3' numLanes='1' type="highway.secondary"/>
+
+    <edge from='n27' to='n9' id='gneE3_3' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n9' to='n27' id='-gneE3_3' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n13' to='n12' id='gneE4_0' priority='3' numLanes='3' type="highway.secondary"/>
+    <edge from='n12' to='n13' id='-gneE4_0' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n27' to='n12' id='gneE4_1' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n12' to='n27' id='-gneE4_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n11' to='n12' id='gneE4_2' priority='3' numLanes='3' type="highway.secondary"/>
+    <edge from='n12' to='n11' id='-gneE4_2' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n26' to='n12' id='gneE4_3' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n12' to='n26' id='-gneE4_3' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n16' to='n15' id='gneE5_0' priority='3' numLanes='3' type="highway.secondary"/>
+    <edge from='n15' to='n16' id='-gneE5_0' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n26' to='n15' id='gneE5_1' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n15' to='n26' id='-gneE5_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n14' to='n15' id='gneE5_2' priority='3' numLanes='4' type="highway.secondary"/>
+    <edge from='n15' to='n14' id='-gneE5_2' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n25' to='n15' id='gneE5_3' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n15' to='n25' id='-gneE5_3' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n19' to='n18' id='gneE6_0' priority='3' numLanes='4' type="highway.secondary"/>
+    <edge from='n18' to='n19' id='-gneE6_0' priority='3' numLanes='2' type="highway.secondary"/>
+
+    <edge from='n25' to='n18' id='gneE6_1' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n18' to='n25' id='-gneE6_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n17' to='n18' id='gneE6_2' priority='3' numLanes='1' type="highway.secondary"/>
+    <edge from='n18' to='n17' id='-gneE6_2' priority='3' numLanes='1' type="highway.secondary"/>
+
+    <edge from='n24' to='n18' id='gneE6_3' priority='3' numLanes='5' type="highway.secondary"/>
+    <edge from='n18' to='n24' id='-gneE6_3' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n22' to='n21' id='gneE7_0' priority='3' numLanes='5' type="highway.secondary"/>
+    <edge from='n21' to='n22' id='-gneE7_0' priority='3' numLanes='3' type="highway.secondary"/>
+
+    <edge from='n24' to='n21' id='gneE7_1' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n21' to='n24' id='-gneE7_1' priority='3' numLanes='4' type="highway.secondary"/>
+
+    <edge from='n20' to='n21' id='gneE7_2' priority='3' numLanes='8' type="highway.secondary"/>
+    <edge from='n21' to='n20' id='-gneE7_2' priority='3' numLanes='3' type="highway.secondary"/>
+
+    <edge from='n23' to='n21' id='gneE7_3' priority='3' numLanes='6' type="highway.secondary"/>
+    <edge from='n21' to='n23' id='-gneE7_3' priority='3' numLanes='4' type="highway.secondary"/>
+</edges>

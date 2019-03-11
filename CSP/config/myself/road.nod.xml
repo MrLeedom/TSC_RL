@@ -1,0 +1,31 @@
+<nodes>
+    <node id="n1" x="400" y="0" type="priority"/>
+    <node id="n2" x="0" y="400" type="priority"/>
+    <node id="n3" x="400" y="400" type="traffic_light"/>
+    <node id="n4" x="800" y="400" type="priority"/>
+    <node id="n5" x="0" y="1012" type="priority"/>
+    <node id="n6" x="400" y="1012" type="traffic_light"/>
+    <node id="n7" x="800" y="1012" type="priority"/>
+    <node id="n8" x="0" y="1569" type="priority"/>
+    <node id="n9" x="400" y="1569" type="traffic_light"/>
+    <node id="n10" x="800" y="1569" type="priority"/>
+    <node id="n11" x="0" y="2069" type="priority"/>
+    <node id="n12" x="400" y="2069" type="traffic_light"/>
+    <node id="n13" x="800" y="2069" type="priority"/>
+    <node id="n14" x="0" y="2819" type="priority"/>
+    <node id="n15" x="400" y="2819" type="traffic_light"/>
+    <node id="n16" x="800" y="2819" type="priority"/>
+    <node id="n17" x="0" y="3179" type="priority"/>
+    <node id="n18" x="400" y="3179" type="traffic_light"/>
+    <node id="n19" x="800" y="3179" type="priority"/>
+    <node id="n20" x="0" y="3749" type="priority"/>
+    <node id="n21" x="400" y="3749" type="traffic_light"/>
+    <node id="n22" x="800" y="3749" type="priority"/>
+    <node id="n23" x="400" y="4149" type="priority"/>
+    <node id="n24" x="400" y="3464" type="priority"/>
+    <node id="n25" x="400" y="2999" type="priority"/>
+    <node id="n26" x="400" y="2444" type="priority"/>
+    <node id="n27" x="400" y="1819" type="priority"/>
+    <node id="n28" x="400" y="1290" type="priority"/>
+    <node id="n29" x="400" y="706" type="priority"/>
+</nodes>

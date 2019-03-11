@@ -7,35 +7,35 @@
    Description:
    License: (C)Copyright 2019
 '''
-#第一题
-#  first = input()
-# first_Line = first.split(' ')
-# n = int(first_Line[0])
-# X = int(first_Line[1])
-# array_index = []
-# array_operation = []
-# print(n,X)
-# for i in range(n):
-#     operation = input()
-#     array = operation.split(' ')
-#     index = int(array[0])
-#     operation_number = int(array[1])
-#     array_index.append(index)
-#     array_operation.append(operation_number)
-# print(array_index)
-# print(array_operation)
-# for k in range(n):
-#     current_index = array_index[n-k-1]
-#     current_operation = array_operation[n-k-1]
-#     if current_index == 1:
-#         X -= current_operation
-#     elif current_index == 2:
-#         X += current_operation
-#     elif current_index == 3:
-#         X = X / current_operation
-#     else:
-#         X = X * current_operation
-# print('origin:', int(X))
+# 第一题
+first = input()
+first_Line = first.split(' ')
+n = int(first_Line[0])
+X = int(first_Line[1])
+array_index = []
+array_operation = []
+print(n,X)
+for i in range(n):
+    operation = input()
+    array = operation.split(' ')
+    index = int(array[0])
+    operation_number = int(array[1])
+    array_index.append(index)
+    array_operation.append(operation_number)
+print(array_index)
+print(array_operation)
+for k in range(n):
+    current_index = array_index[n-k-1]
+    current_operation = array_operation[n-k-1]
+    if current_index == 1:
+        X -= current_operation
+    elif current_index == 2:
+        X += current_operation
+    elif current_index == 3:
+        X = X / current_operation
+    else:
+        X = X * current_operation
+print('origin:', int(X))
     
 
 # #第二题
@@ -95,7 +95,7 @@
     
 # print(sum)
 
-#第三题
+# #第三题
 n = int(input())
 string = input()
 array = []

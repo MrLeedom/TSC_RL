@@ -1,0 +1,14 @@
+<nodes>
+<node id ="node1" x = "250.0" y="0" type="priority" />
+<node id ="node2" x = "750.0" y="0" type="priority" />
+<node id ="node3" x = "0.0" y="250.0" type="priority" />
+<node id ="node4" x = "250.0" y="250.0" type="traffic_light" />
+<node id ="node5" x = "750.0" y="250.0" type="traffic_light" />
+<node id ="node6" x = "1000.0" y="250.0" type="priority" />
+<node id ="node7" x = "0.0" y="750.0" type="priority" />
+<node id ="node8" x = "250.0" y="750.0" type="traffic_light" />
+<node id ="node9" x = "750.0" y="750.0" type="traffic_light" />
+<node id ="node10" x = "1000.0" y="750.0" type="priority" />
+<node id ="node11" x = "250.0" y="1000.0" type="priority" />
+<node id ="node12" x = "750.0" y="1000.0" type="priority" />
+</nodes>

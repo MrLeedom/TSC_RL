@@ -56,8 +56,8 @@ def getLegalAction(phases):
         if x<60: #如果小于60，对应行为i+5的值也等于序号。（设60s为最大绿灯时间，大于60s就不能继续执行+5s的动作）
             legal_action[i+5] = i+5
         i +=1
-    legal_action[4] = 4 #这个循环的意思是如果四个相位的时间都在5-60间，legal_action就是[0,1,2...7,8]这样一个序列，如果有一个不在区间内，那么对应的i和i+5的值就是-1(既不能执行该动作)
-    return legal_action
+    legal_action[4] = 4 #这个循环的意思是如果四个相位的时间都在5-60间，legal_action就是[-1,0,1,2...7,8]这样一个序列，如果有一个不在区间内，那么对应的i和i+5的值就是-1(既不能执行该动作)
+    return legal_action  #其中这个-1是用来判断是否正确
     
 #get the new phases after taking action from the current phases
 def getPhaseFromAction(phases, act):

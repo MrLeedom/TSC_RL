@@ -1,0 +1,26 @@
+<edges>
+<edge id="edge3_4" from="node3" to="node4" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge4_3" from="node4" to="node3" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge4_5" from="node4" to="node5" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge5_4" from="node5" to="node4" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge5_6" from="node5" to="node6" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge6_5" from="node6" to="node5" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge1_4" from="node1" to="node4" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge4_1" from="node4" to="node1" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge2_5" from="node2" to="node5" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge5_2" from="node5" to="node2" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge7_8" from="node7" to="node8" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge8_7" from="node8" to="node7" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge8_9" from="node8" to="node9" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge9_8" from="node9" to="node8" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge9_10" from="node9" to="node10" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge10_9" from="node10" to="node9" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge8_4" from="node8" to="node4" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge4_8" from="node4" to="node8" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge9_5" from="node9" to="node5" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge5_9" from="node5" to="node9" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge8_11" from="node8" to="node11" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge11_8" from="node11" to="node8" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge9_12" from="node9" to="node12" priority="15" numLanes="1" speed="13.89" />
+<edge id="edge12_9" from="node12" to="node9" priority="15" numLanes="1" speed="13.89" />
+</edges>

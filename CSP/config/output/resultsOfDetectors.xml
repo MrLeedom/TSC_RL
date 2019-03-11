@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on Wed 09 Jan 2019 08:45:31 PM CST by Eclipse SUMO GUI Version 1.1.0
+<!-- generated on Thu 24 Jan 2019 03:41:20 PM CST by Eclipse SUMO GUI Version 1.1.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="forth.net.xml"/>
-        <route-files value="shixin_shanyin_high.rou.xml"/>
-        <additional-files value="shixin_shanyin.det.xml"/>
+        <net-file value="/work/trafficSignalControl/CSP/config/shijie/shixin_shanyin.net.xml"/>
+        <route-files value="/work/trafficSignalControl/CSP/config/shijie/shixin_shanyin_high.rou.xml"/>
+        <additional-files value="/work/trafficSignalControl/CSP/config/shijie/shixin_shanyin.det.xml"/>
     </input>
 
 </configuration>

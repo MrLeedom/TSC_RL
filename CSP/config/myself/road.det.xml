@@ -1,0 +1,395 @@
+<additional>
+   <!--市心路-建设一路  -->
+   <laneAreaDetector id="gneE1_0_1" lanes="gneE1_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_0_2" lanes="gneE1_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_0_3" lanes="gneE1_0_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_0_4" lanes="gneE1_0_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1_5" lanes="gneE1_1_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1_6" lanes="gneE1_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1_7" lanes="gneE1_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1_8" lanes="gneE1_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1_9" lanes="gneE1_1_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1_10" lanes="gneE1_1_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_2_11" lanes="gneE1_2_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_2_12" lanes="gneE1_2_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+   
+   <laneAreaDetector id="gneE1_2_13" lanes="gneE1_2_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_2_14" lanes="gneE1_2_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3_15" lanes="gneE1_3_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3_16" lanes="gneE1_3_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3_17" lanes="gneE1_3_17" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3_18" lanes="gneE1_3_18" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3_19" lanes="gneE1_3_19" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3_20" lanes="gneE1_3_20" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <!-- 市心路-建设二路 -->
+   <laneAreaDetector id="gneE2_0_1" lanes="gneE2_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_0_2" lanes="gneE2_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_0_3" lanes="gneE2_0_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_1_4" lanes="gneE2_1_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_1_5" lanes="gneE2_1_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_1_6" lanes="gneE2_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_1_7" lanes="gneE2_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE2_1_8" lanes="gneE2_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE2_2_9" lanes="gneE2_2_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE2_2_10" lanes="gneE2_2_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_2_11" lanes="gneE2_2_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE2_3_12" lanes="gneE2_3_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_3_13" lanes="gneE2_3_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_3_14" lanes="gneE2_3_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_3_15" lanes="gneE2_3_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_3_16" lanes="gneE2_3_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+    <!-- 市心路-建设三路 -->
+    <laneAreaDetector id="gneE3_0_1" lanes="gneE3_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_0_2" lanes="gneE3_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_1_3" lanes="gneE3_1_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_1_4" lanes="gneE3_1_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_1_5" lanes="gneE3_1_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_1_6" lanes="gneE3_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_1_7" lanes="gneE3_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE3_1_8" lanes="gneE3_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE3_2_9" lanes="gneE3_2_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE3_2_10" lanes="gneE3_2_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_3_11" lanes="gneE3_3_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE3_3_12" lanes="gneE3_3_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_3_13" lanes="gneE3_3_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_3_14" lanes="gneE3_3_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_3_15" lanes="gneE3_3_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_3_16" lanes="gneE3_3_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <!-- 市心路-建设四路 -->
+   <laneAreaDetector id="gneE4_0_1" lanes="gneE4_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_0_2" lanes="gneE4_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_0_3" lanes="gneE4_0_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_1_4" lanes="gneE4_1_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_1_5" lanes="gneE4_1_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_1_6" lanes="gneE4_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_1_7" lanes="gneE4_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE4_1_8" lanes="gneE4_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE4_1_9" lanes="gneE4_1_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE4_2_10" lanes="gneE4_2_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_2_11" lanes="gneE4_2_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE4_2_12" lanes="gneE4_2_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_3_13" lanes="gneE4_3_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_3_14" lanes="gneE4_3_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_3_15" lanes="gneE4_3_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE4_3_16" lanes="gneE4_3_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE4_3_17" lanes="gneE4_3_17" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE4_3_18" lanes="gneE4_3_18" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <!-- 市心路-振宁路 -->
+   <laneAreaDetector id="gneE5_0_1" lanes="gneE5_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_0_2" lanes="gneE5_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_0_3" lanes="gneE5_0_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_1_4" lanes="gneE5_1_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_1_5" lanes="gneE5_1_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_1_6" lanes="gneE5_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_1_7" lanes="gneE5_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE5_1_8" lanes="gneE5_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE5_1_9" lanes="gneE5_1_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE5_2_10" lanes="gneE5_2_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_2_11" lanes="gneE5_2_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE5_2_12" lanes="gneE5_2_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_2_13" lanes="gneE5_2_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_3_14" lanes="gneE5_3_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_3_15" lanes="gneE5_3_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE5_3_16" lanes="gneE5_3_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE5_3_17" lanes="gneE5_3_17" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE5_3_18" lanes="gneE5_3_18" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE5_3_19" lanes="gneE5_3_19" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <!-- 市心路-利华路 -->
+   <laneAreaDetector id="gneE6_0_1" lanes="gneE6_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_0_2" lanes="gneE6_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_0_3" lanes="gneE6_0_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_0_4" lanes="gneE6_0_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_1_5" lanes="gneE6_1_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_1_6" lanes="gneE6_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_1_7" lanes="gneE6_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE6_1_8" lanes="gneE6_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE6_1_9" lanes="gneE6_1_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE6_1_10" lanes="gneE6_1_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_2_11" lanes="gneE6_2_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE6_2_12" lanes="gneE6_2_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_2_13" lanes="gneE6_2_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_3_14" lanes="gneE6_3_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_3_15" lanes="gneE6_3_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE6_3_16" lanes="gneE6_3_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <!-- 市心路-机场大道 -->
+   <laneAreaDetector id="gneE7_0_1" lanes="gneE7_0_1" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_0_2" lanes="gneE7_0_2" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_0_3" lanes="gneE7_0_3" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_0_4" lanes="gneE7_0_4" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_0_5" lanes="gneE7_0_5" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_1_6" lanes="gneE7_1_6" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_1_7" lanes="gneE7_1_7" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE7_1_8" lanes="gneE7_1_8" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE7_1_9" lanes="gneE7_1_9" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE7_1_10" lanes="gneE7_1_10" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_1_11" lanes="gneE7_1_11" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE7_2_12" lanes="gneE7_2_12" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_2_13" lanes="gneE7_2_13" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_2_14" lanes="gneE7_2_14" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_2_15" lanes="gneE7_2_15" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE7_2_16" lanes="gneE7_2_16" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/> 
+
+   <laneAreaDetector id="gneE7_2_17" lanes="gneE7_2_17" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>
+
+   <laneAreaDetector id="gneE7_2_18" lanes="gneE7_2_18" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+
+   <laneAreaDetector id="gneE7_2_19" lanes="gneE7_2_19" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+
+   <laneAreaDetector id="gneE7_3_20" lanes="gneE7_3_20" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+      
+   <laneAreaDetector id="gneE7_3_21" lanes="gneE7_3_21" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+
+   <laneAreaDetector id="gneE7_3_22" lanes="gneE7_3_22" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+
+   <laneAreaDetector id="gneE7_3_23" lanes="gneE7_3_23" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+
+   <laneAreaDetector id="gneE7_3_24" lanes="gneE7_3_24" 
+   pos="-100" endPos="-1" freq="30" file="../output/resultsOfDetectors.xml"/>  
+</additional>
